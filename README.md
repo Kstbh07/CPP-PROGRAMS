@@ -18,8 +18,14 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0047-permutations-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0047-permutations-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
