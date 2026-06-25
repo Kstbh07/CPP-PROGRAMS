@@ -24,6 +24,7 @@
 | ------- |
 | [0046-permutations](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0047-permutations-ii) |
+| [0052-n-queens-ii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0052-n-queens-ii) |
 ## Sorting
 |  |
 | ------- |
