@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0047-permutations-ii) |
 ## Backtracking
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
