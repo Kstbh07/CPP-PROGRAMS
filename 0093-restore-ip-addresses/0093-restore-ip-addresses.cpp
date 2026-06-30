@@ -4,7 +4,7 @@ public:
 
     void backtrack(string &s, int idx, int parts, string curr) {
         if (parts == 4 && idx == s.size()) {
-            curr.pop_back();          // remove last '.'
+            curr.pop_back(); 
             ans.push_back(curr);
             return;
         }
@@ -14,12 +14,11 @@ public:
 
         for (int len = 1; len <= 3 && idx + len <= s.size(); len++) {
             string part = s.substr(idx, len);
-
-            // Leading zero
+            
             if (part.size() > 1 && part[0] == '0')
                 break;
 
-            // Greater than 255
+           
             if (stoi(part) > 255)
                 continue;
 
