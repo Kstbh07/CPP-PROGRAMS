@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0038-count-and-say) |
+| [0071-simplify-path](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0093-restore-ip-addresses) |
 | [2390-removing-stars-from-a-string](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0145-binary-tree-postorder-traversal) |
 | [2390-removing-stars-from-a-string](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
