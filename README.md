@@ -28,6 +28,7 @@
 | [0047-permutations-ii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0079-word-search) |
+| [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -81,4 +82,17 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0048-rotate-image) |
+| [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
+## Game Theory
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
