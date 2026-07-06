@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0093-restore-ip-addresses) |
@@ -64,10 +65,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0045-jump-game-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0045-jump-game-ii) |
 ## Breadth-First Search
 |  |
@@ -95,4 +98,8 @@
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
