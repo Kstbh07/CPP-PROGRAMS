@@ -6,6 +6,7 @@
 | ------- |
 | [0038-count-and-say](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0044-wildcard-matching) |
+| [0065-valid-number](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0093-restore-ip-addresses) |
