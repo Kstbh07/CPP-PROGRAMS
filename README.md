@@ -10,6 +10,7 @@
 | [0071-simplify-path](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0093-restore-ip-addresses) |
+| [0168-excel-sheet-column-title](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0168-excel-sheet-column-title) |
 | [2390-removing-stars-from-a-string](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0048-rotate-image) |
+| [0168-excel-sheet-column-title](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0168-excel-sheet-column-title) |
 | [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
 ## Bit Manipulation
 |  |
