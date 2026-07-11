@@ -108,6 +108,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0044-wildcard-matching) |
 ## Divide and Conquer
 |  |
@@ -117,4 +118,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
