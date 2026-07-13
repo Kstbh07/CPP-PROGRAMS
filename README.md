@@ -91,12 +91,14 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0168-excel-sheet-column-title) |
 | [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0029-divide-two-integers) |
 | [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
 ## Brainteaser
 |  |
