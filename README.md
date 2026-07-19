@@ -6,6 +6,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0071-simplify-path) |
@@ -22,6 +23,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0043-multiply-strings) |
 | [2390-removing-stars-from-a-string](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0168-excel-sheet-column-title) |
 | [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
