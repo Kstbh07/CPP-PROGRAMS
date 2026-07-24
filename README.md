@@ -80,6 +80,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
@@ -107,6 +108,7 @@
 | [0029-divide-two-integers](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0168-excel-sheet-column-title) |
 | [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3658-gcd-of-odd-and-even-sums) |
