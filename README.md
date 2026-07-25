@@ -81,6 +81,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
@@ -160,4 +161,8 @@
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3499-maximize-active-section-with-trade-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
