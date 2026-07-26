@@ -44,6 +44,7 @@
 | [0079-word-search](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0079-word-search) |
 | [0704-binary-search](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0704-binary-search) |
 | [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
+| [0875-koko-eating-bananas](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0875-koko-eating-bananas) |
 ## Backtracking
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0069-sqrtx](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
