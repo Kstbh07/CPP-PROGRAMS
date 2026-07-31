@@ -43,6 +43,7 @@
 | [0048-rotate-image](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0079-word-search) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0704-binary-search) |
 | [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
 | [0875-koko-eating-bananas](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0875-koko-eating-bananas) |
@@ -87,6 +88,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0875-koko-eating-bananas) |
