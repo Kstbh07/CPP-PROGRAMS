@@ -15,6 +15,7 @@
 | [0093-restore-ip-addresses](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0093-restore-ip-addresses) |
 | [0168-excel-sheet-column-title](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0168-excel-sheet-column-title) |
 | [2390-removing-stars-from-a-string](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2390-removing-stars-from-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
@@ -112,6 +113,7 @@
 | [0011-container-with-most-water](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0045-jump-game-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0168-excel-sheet-column-title) |
 | [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0877-stone-game) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
