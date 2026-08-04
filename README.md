@@ -54,6 +54,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [3731-find-missing-elements](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0049-group-anagrams) |
+| [3731-find-missing-elements](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0049-group-anagrams) |
+| [3731-find-missing-elements](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
