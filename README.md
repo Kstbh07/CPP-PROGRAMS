@@ -53,6 +53,7 @@
 | [0877-stone-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3731-find-missing-elements) |
@@ -195,4 +196,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0278-first-bad-version) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
