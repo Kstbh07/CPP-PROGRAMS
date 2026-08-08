@@ -49,6 +49,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0303-range-sum-query-immutable) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0724-find-pivot-index) |
 | [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
 | [0875-koko-eating-bananas](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0877-stone-game) |
@@ -201,6 +202,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1480-running-sum-of-1d-array) |
 ## Design
 |  |
