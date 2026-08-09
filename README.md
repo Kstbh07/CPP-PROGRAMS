@@ -14,6 +14,7 @@
 | [0079-word-search](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0093-restore-ip-addresses) |
 | [0168-excel-sheet-column-title](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0168-excel-sheet-column-title) |
+| [2000-reverse-prefix-of-word](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0145-binary-tree-postorder-traversal) |
+| [2000-reverse-prefix-of-word](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -171,6 +173,7 @@
 | [0011-container-with-most-water](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2000-reverse-prefix-of-word](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2000-reverse-prefix-of-word) |
 ## Linked List
 |  |
 | ------- |
