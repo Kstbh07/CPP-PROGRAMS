@@ -15,6 +15,7 @@
 | [0093-restore-ip-addresses](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0093-restore-ip-addresses) |
 | [0168-excel-sheet-column-title](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0168-excel-sheet-column-title) |
 | [0290-word-pattern](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0290-word-pattern) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2000-reverse-prefix-of-word](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -51,6 +52,7 @@
 | [0162-find-peak-element](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0162-find-peak-element) |
 | [0303-range-sum-query-immutable](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0303-range-sum-query-immutable) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0540-single-element-in-a-sorted-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0704-binary-search](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0724-find-pivot-index) |
 | [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
@@ -192,6 +194,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0290-word-pattern) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0904-fruit-into-baskets](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0904-fruit-into-baskets) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
