@@ -151,6 +151,7 @@
 | [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -211,6 +212,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Interactive
 |  |
