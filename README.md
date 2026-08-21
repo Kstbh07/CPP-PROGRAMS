@@ -126,6 +126,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0045-jump-game-ii) |
+| [0338-counting-bits](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0877-stone-game) |
 ## Greedy
 |  |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0029-divide-two-integers) |
+| [0338-counting-bits](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0338-counting-bits) |
 | [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
 ## Brainteaser
 |  |
