@@ -12,6 +12,7 @@
 | [0065-valid-number](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0093-restore-ip-addresses) |
 | [0168-excel-sheet-column-title](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0168-excel-sheet-column-title) |
 | [0290-word-pattern](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0290-word-pattern) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0045-jump-game-ii) |
+| [0091-decode-ways](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0091-decode-ways) |
 | [0338-counting-bits](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0877-stone-game) |
 ## Greedy
