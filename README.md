@@ -20,6 +20,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
@@ -215,6 +216,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0930-binary-subarrays-with-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -223,6 +225,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0904-fruit-into-baskets](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0930-binary-subarrays-with-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Enumeration
 |  |
 | ------- |
