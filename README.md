@@ -35,6 +35,7 @@
 | [0043-multiply-strings](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0043-multiply-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2390-removing-stars-from-a-string) |
+| [4020-elevator-requests-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4020-elevator-requests-i) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3731-find-missing-elements) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+| [4020-elevator-requests-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4020-elevator-requests-i) |
 ## Backtracking
 |  |
 | ------- |
