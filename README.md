@@ -22,6 +22,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3499-maximize-active-section-with-trade-i) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Stack
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -234,6 +236,7 @@
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3499-maximize-active-section-with-trade-i) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Interactive
 |  |
 | ------- |
