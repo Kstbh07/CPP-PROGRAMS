@@ -80,6 +80,7 @@
 | [3731-find-missing-elements](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3731-find-missing-elements) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4020-elevator-requests-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4020-elevator-requests-i) |
+| [4024-nearest-available-drone](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4024-nearest-available-drone) |
 ## Backtracking
 |  |
 | ------- |
@@ -240,6 +241,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3499-maximize-active-section-with-trade-i) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
+| [4024-nearest-available-drone](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4024-nearest-available-drone) |
 ## Interactive
 |  |
 | ------- |
