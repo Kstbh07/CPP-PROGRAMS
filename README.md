@@ -78,6 +78,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3875-construct-uniform-parity-array-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4020-elevator-requests-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4024-nearest-available-drone) |
@@ -169,6 +170,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3875-construct-uniform-parity-array-i) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Bit Manipulation
 |  |
