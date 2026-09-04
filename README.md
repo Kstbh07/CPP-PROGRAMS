@@ -139,6 +139,7 @@
 | [0045-jump-game-ii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0045-jump-game-ii) |
 | [0091-decode-ways](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0091-decode-ways) |
 | [0338-counting-bits](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0338-counting-bits) |
+| [0650-2-keys-keyboard](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0650-2-keys-keyboard) |
 | [0877-stone-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0877-stone-game) |
 ## Greedy
 |  |
@@ -164,6 +165,7 @@
 | [0048-rotate-image](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0168-excel-sheet-column-title) |
+| [0650-2-keys-keyboard](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0650-2-keys-keyboard) |
 | [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0877-stone-game) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2269-find-the-k-beauty-of-a-number) |
