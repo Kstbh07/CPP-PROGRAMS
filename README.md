@@ -24,6 +24,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3499-maximize-active-section-with-trade-i) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
+| [4030-check-ascii-palindromic](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4030-check-ascii-palindromic) |
 ## Stack
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 | [0029-divide-two-integers](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0029-divide-two-integers) |
 | [0338-counting-bits](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0338-counting-bits) |
 | [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
+| [4030-check-ascii-palindromic](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4030-check-ascii-palindromic) |
 ## Brainteaser
 |  |
 | ------- |
@@ -209,6 +211,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2000-reverse-prefix-of-word](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2149-rearrange-array-elements-by-sign) |
+| [4030-check-ascii-palindromic](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4030-check-ascii-palindromic) |
 ## Linked List
 |  |
 | ------- |
