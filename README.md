@@ -70,6 +70,7 @@
 | [0904-fruit-into-baskets](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0930-binary-subarrays-with-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1254-number-of-closed-islands](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -111,6 +112,7 @@
 | [0079-word-search](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0145-binary-tree-postorder-traversal) |
+| [1254-number-of-closed-islands](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -153,11 +155,13 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0101-symmetric-tree) |
+| [1254-number-of-closed-islands](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0079-word-search) |
+| [1254-number-of-closed-islands](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1254-number-of-closed-islands) |
 ## Math
 |  |
 | ------- |
@@ -286,4 +290,8 @@
 |  |
 | ------- |
 | [1854-maximum-population-year](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1854-maximum-population-year) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
