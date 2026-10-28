@@ -82,6 +82,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4020-elevator-requests-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4024-nearest-available-drone) |
@@ -146,6 +147,7 @@
 | [0338-counting-bits](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0338-counting-bits) |
 | [0650-2-keys-keyboard](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0650-2-keys-keyboard) |
 | [0877-stone-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0877-stone-game) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 | [0079-word-search](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -191,6 +194,7 @@
 | [0029-divide-two-integers](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0029-divide-two-integers) |
 | [0338-counting-bits](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0338-counting-bits) |
 | [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4030-check-ascii-palindromic](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4030-check-ascii-palindromic) |
 ## Brainteaser
 |  |
