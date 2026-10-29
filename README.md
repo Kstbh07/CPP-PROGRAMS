@@ -23,6 +23,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 | [4030-check-ascii-palindromic](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4030-check-ascii-palindromic) |
 ## Stack
@@ -81,6 +82,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3731-find-missing-elements) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
@@ -108,6 +110,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0145-binary-tree-postorder-traversal) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -116,6 +119,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0145-binary-tree-postorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -194,6 +198,7 @@
 | [0029-divide-two-integers](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0029-divide-two-integers) |
 | [0338-counting-bits](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0338-counting-bits) |
 | [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4030-check-ascii-palindromic](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4030-check-ascii-palindromic) |
 ## Brainteaser
@@ -214,6 +219,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0004-median-of-two-sorted-arrays) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Two Pointers
 |  |
@@ -285,10 +291,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Merge Sort
 |  |
