@@ -73,6 +73,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1254-number-of-closed-islands](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0049-group-anagrams) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3731-find-missing-elements) |
@@ -141,6 +143,7 @@
 | [0875-koko-eating-bananas](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Dynamic Programming
 |  |
@@ -226,6 +229,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2000-reverse-prefix-of-word](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2149-rearrange-array-elements-by-sign) |
