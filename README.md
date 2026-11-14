@@ -84,6 +84,7 @@
 | [2747-count-zero-request-servers](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -274,6 +275,7 @@
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2747-count-zero-request-servers](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Enumeration
 |  |
@@ -296,6 +298,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0930-binary-subarrays-with-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1480-running-sum-of-1d-array) |
 | [1854-maximum-population-year](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1854-maximum-population-year) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3364-minimum-positive-sum-subarray) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Design
 |  |
