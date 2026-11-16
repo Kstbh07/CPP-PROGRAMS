@@ -18,6 +18,7 @@
 | [0290-word-pattern](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0290-word-pattern) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2000-reverse-prefix-of-word](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2000-reverse-prefix-of-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2390-removing-stars-from-a-string](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0043-multiply-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2390-removing-stars-from-a-string) |
 | [4020-elevator-requests-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4020-elevator-requests-i) |
 ## Array
