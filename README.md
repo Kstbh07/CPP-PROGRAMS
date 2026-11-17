@@ -21,6 +21,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2390-removing-stars-from-a-string](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2390-removing-stars-from-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -163,6 +164,7 @@
 | [0338-counting-bits](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0338-counting-bits) |
 | [0650-2-keys-keyboard](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0650-2-keys-keyboard) |
 | [0877-stone-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0877-stone-game) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
@@ -242,6 +244,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2000-reverse-prefix-of-word](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [4030-check-ascii-palindromic](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4030-check-ascii-palindromic) |
 ## Linked List
 |  |
