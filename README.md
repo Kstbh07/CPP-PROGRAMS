@@ -85,6 +85,7 @@
 | [1854-maximum-population-year](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1854-maximum-population-year) |
 | [1882-process-tasks-using-servers](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1882-process-tasks-using-servers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -115,6 +116,7 @@
 | [0049-group-anagrams](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0049-group-anagrams) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3731-find-missing-elements) |
@@ -173,6 +175,7 @@
 | [0011-container-with-most-water](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0045-jump-game-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Breadth-First Search
 |  |
