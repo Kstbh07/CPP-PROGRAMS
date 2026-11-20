@@ -65,6 +65,7 @@
 | [0162-find-peak-element](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0162-find-peak-element) |
 | [0303-range-sum-query-immutable](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0303-range-sum-query-immutable) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0525-contiguous-array](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0560-subarray-sum-equals-k) |
@@ -116,6 +117,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0049-group-anagrams) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -204,6 +206,7 @@
 | [0069-sqrtx](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0168-excel-sheet-column-title) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0650-2-keys-keyboard](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0650-2-keys-keyboard) |
 | [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0877-stone-game) |
