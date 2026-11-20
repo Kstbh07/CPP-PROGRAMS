@@ -94,6 +94,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3731-find-missing-elements) |
@@ -175,6 +176,7 @@
 | [0877-stone-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0877-stone-game) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
@@ -214,6 +216,7 @@
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3870-count-commas-in-range) |
@@ -283,6 +286,7 @@
 | [2747-count-zero-request-servers](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -296,6 +300,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Enumeration
 |  |
 | ------- |
@@ -351,6 +356,7 @@
 |  |
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1882-process-tasks-using-servers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Queue
 |  |
 | ------- |
