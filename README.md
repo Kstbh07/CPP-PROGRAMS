@@ -97,6 +97,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -214,6 +215,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3875-construct-uniform-parity-array-i) |
