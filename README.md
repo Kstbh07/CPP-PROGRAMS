@@ -81,6 +81,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1254-number-of-closed-islands](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -217,6 +218,7 @@
 | [0650-2-keys-keyboard](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0650-2-keys-keyboard) |
 | [0810-chalkboard-xor-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1352-product-of-the-last-k-numbers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -325,6 +327,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0930-binary-subarrays-with-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1480-running-sum-of-1d-array) |
 | [1854-maximum-population-year](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1854-maximum-population-year) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3364-minimum-positive-sum-subarray) |
@@ -333,6 +336,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1352-product-of-the-last-k-numbers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -374,4 +378,8 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
