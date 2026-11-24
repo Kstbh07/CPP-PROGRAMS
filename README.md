@@ -96,6 +96,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -222,6 +223,7 @@
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -276,6 +278,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
@@ -306,12 +309,14 @@
 | [2747-count-zero-request-servers](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3499-maximize-active-section-with-trade-i) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 | [4024-nearest-available-drone](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4024-nearest-available-drone) |
