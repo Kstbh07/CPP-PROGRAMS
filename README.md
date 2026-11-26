@@ -45,6 +45,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3360-stone-removal-game) |
 | [4020-elevator-requests-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4020-elevator-requests-i) |
 ## Array
 |  |
@@ -223,6 +224,7 @@
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3658-gcd-of-odd-and-even-sums) |
