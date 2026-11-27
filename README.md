@@ -107,6 +107,7 @@
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4020-elevator-requests-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/4024-nearest-available-drone) |
@@ -185,6 +186,7 @@
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 | [0045-jump-game-ii](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/0045-jump-game-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Kstbh07/CPP-PROGRAMS/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Breadth-First Search
 |  |
 | ------- |
